@@ -11,3 +11,15 @@ background-image: url("https://images.unsplash.com/photo-1550482388-ada559934368
 min-height: 50vh;
 
 }
+.bg-image-2{
+background-image: url("https://images.unsplash.com/photo-1550426812-b6eb356f845c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80");
+background-position: left: ;
+min-height: 300px;
+}
+.bg-image-3{
+  background-image: url("https://images.unsplash.com/photo-1550184816-3eeadf82295f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80");
+  background-position: right;
+  min-height: 300px;
+
+min-height: 300px
+}
