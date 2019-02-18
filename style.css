@@ -1,0 +1,11 @@
+.bg-image{
+background-color: grey;
+background-position: center;
+background-size: cover;
+}
+
+.bg-image-1{
+background-image: url("https://images.unsplash.com/photo-1550482388-ada559934368?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2102&q=80");
+
+min-height: 50vh;
+}
